@@ -12,7 +12,7 @@ export default function Home() {
         <p className="mx-auto max-w-xl px-2 text-center font-primary text-base text-white">
           Danton Parfums in Chennai, TN, is your destination for all your
           fragrance needs. With a vast selection of perfumes, colognes, and body
-          sprays, you can find your perfect scent. Shop now to experience the
+          sprays, you can find yoour perfect scent. Shop now to experience the
           best of Indian fragrances!
         </p>
         <div className="flex place-content-center">
